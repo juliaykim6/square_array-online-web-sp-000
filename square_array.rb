@@ -9,5 +9,6 @@ def square_array(array)
   new_array = []
   array.each do |i|
     new_array << I ** 2
+  end
   new_array
 end
